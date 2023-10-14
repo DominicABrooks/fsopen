@@ -1,33 +1,24 @@
-# fsopen-part0
-Helsinki University's Full Stack Open Course - Part 0
+# Helsinki University's Full Stack Open Course
 
-### 0.1: HTML
-Review the basics of HTML by reading this tutorial from Mozilla: HTML tutorial.
+Course covers React, Redux, Node.js, MongoDB, GraphQL, and TypeScript in Modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
 
-This exercise is not submitted to GitHub, it's enough to just read the tutorial
+## Part 0
+### Fundamentals of Web Apps
+- a History of Web Apps
+- b Creating Sequence Diagrams
+- c Using Dev Tools
 
-### 0.2: CSS
-Review the basics of CSS by reading this tutorial from Mozilla: CSS tutorial.
+## Part 1
+### React Library and JSX
+- a Introduction to React
+- b JavaScript
+- c Component State and Event Handlers
+- d A More Complex State, Debugging React Apps
 
-This exercise is not submitted to GitHub, it's enough to just read the tutorial
-
-### 0.3: HTML forms
-Learn about the basics of HTML forms by reading Mozilla's tutorial.
-
-This exercise is not submitted to GitHub, it's enough to just read the tutorial
-
-### 0.4: New note diagram
-Create sequence diagram for creating a new note at https://studies.cs.helsinki.fi/exampleapp/notes 
-
-![test](https://github.com/DominicABrooks/fsopen-part0/blob/main/0.4%20-%20Notes%20Diagram.png)
-
-### 0.5: Single page app diagram
-Create sequence diagram for users entering https://studies.cs.helsinki.fi/exampleapp/spa
-
-![test](https://github.com/DominicABrooks/fsopen-part0/blob/main/0.5%20-%20Spa%20Diagram.png)
-
-### 0.6: New note in Single page app diagram
-Create sequence diagram for creating a new note at https://studies.cs.helsinki.fi/exampleapp/spa
-
-![test](https://github.com/DominicABrooks/fsopen-part0/blob/main/0.6%20-%20Spa%20new_note%20Diagram.png)
-
+## Part 2
+### Communicating with Server
+- a Rendering a Collection, Modules
+- b Forms
+- c Getting Data from Server
+- d Altering Data in Server
+- e Adding Styles to React App
